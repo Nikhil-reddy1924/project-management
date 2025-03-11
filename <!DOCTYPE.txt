@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Management</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Project Management</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Project Management</h2>
+        <p>Learn the key points about project management and improve your skills.</p>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am passionate about project management and have expertise in handling projects efficiently.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Project Management Skills</h2>
+        <ul>
+            <li>Project Planning</li>
+            <li>Risk Management</li>
+            <li>Agile & Scrum Methodologies</li>
+            <li>Leadership & Team Collaboration</li>
+            <li>Time Management</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: yourname@example.com</p>
+        <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Project Management. All rights reserved.</p>
+    </footer>
+</body>
+</html>
